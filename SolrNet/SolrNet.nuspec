@@ -3,6 +3,8 @@
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
+    <authors>Mauricio Scheffer</authors>
+    <owners>Mauricio Scheffer</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
   </metadata>
